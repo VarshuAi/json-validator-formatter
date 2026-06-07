@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A beautiful browser utility to parse, validate, prettify, and tree-format JSON strings.
+  name: json-validator-formatter version: 1.0 type: Repository author: VarshuAi description: >   A beautiful browser utility to parse, validate, prettify, and tree-format JSON strings. primary_tech: CSS
 primary_tech: CSS
 ```
 
